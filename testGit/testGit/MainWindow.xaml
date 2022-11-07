@@ -9,9 +9,6 @@
 
     <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
 
-        <TextBlock Text="Marc" FontSize="50" Foreground="Green"/>
-
-
         <TextBox Text="test branche test"/>
 
         <TextBox Text="Main"/>
