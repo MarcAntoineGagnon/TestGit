@@ -8,7 +8,7 @@
     mc:Ignorable="d">
 
     <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
-        <TextBox Text="test"/>
+        <TextBox Text="Main"/>
         <Button x:Name="myButton" Click="myButton_Click">Click Me</Button>
     </StackPanel>
 </Window>
